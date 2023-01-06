@@ -9,7 +9,7 @@ NIM     : 312210303
 # PACKAGE & MODULE
 **saya di beri tugas UAS ini  dengan struktur sebagai berikut:**
 
-![soal uas](https://user-images![IMG_20230104_205441](https://user-images.githubusercontent.com/115516607/211039624-e4f3ac1d-8c70-4cf3-85db-aa3d5edb0acd.jpg)
+(https://user-images.githubusercontent.com/115516607/211039624-e4f3ac1d-8c70-4cf3-85db-aa3d5edb0acd.jpg)
 
  
 
