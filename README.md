@@ -7,7 +7,7 @@ NIM     : 312210303
 # Repository ini dibuat sebagai project UAS BAHASA PEMROGRAMAN SEMESTER 1
 
 # PACKAGE & MODULE
-**saya di beri tugas UAS ini  dengan struktur sebagai berikut:**
+Saya di beri tugas UAS ini  dengan struktur sebagai berikut:
 
 https://user-image![IMG_20230104_205441]
 
