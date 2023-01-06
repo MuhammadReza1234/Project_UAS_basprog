@@ -6,7 +6,11 @@ NIM     : 312210303
 
 # Repository ini dibuat sebagai project UAS BAHASA PEMROGRAMAN SEMESTER 1
 
+# PACKAGE & MODULE
+**saya di beri tugas UAS ini  dengan struktur seperti sebagai berikut:**
 
+![soal uas](https://user-images.githubusercontent.com/93035757/149618916-d7707552-7229-4def-930f-5a706dd00ac1.png)
+ 
 
 
 # Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
