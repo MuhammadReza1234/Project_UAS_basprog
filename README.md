@@ -9,7 +9,8 @@ NIM     : 312210303
 # PACKAGE & MODULE
 Saya di beri tugas UAS ini  dengan struktur sebagai berikut:
 
-https://user-image![IMG_20230104_205441]
+![Screenshot_2023-01-06-22-16-51-815_com google android apps docs](https://user-images.githubusercontent.com/115516607/211041722-8152d33d-da61-4f4f-9ef5-7fd337b71d32.png)
+
 
 
  
