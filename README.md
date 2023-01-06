@@ -4,18 +4,10 @@ KELAS   : TI.22.A3
 
 NIM     : 312210303
 
-# Repository ini dibuat sebagai project UAS BAHASA PEMOGRAMAN SEMESTER 1
+# Repository ini dibuat sebagai project UAS BAHASA PEMROGRAMAN SEMESTER 1
 
-# Latihan MVC Model View Controller dengan Python
-Membuat sebuah program nilai mahasiswa sederhana dengan menggunakan bahasa pemrograman python.
 
-Program ini juga dibuat sebagai tugas uas.
 
-Cara Menjalankan Program :
-
-- Download folder lalu extract
-
-- Setelah itu buka di text editor dan jalankan melalui terminal dengan mengetika python main.py
 
 # Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
