@@ -24,8 +24,5 @@ Saya di beri tugas UAS ini  dengan struktur sebagai berikut:
 
 [ini juga video punya tu orang](https://youtu.be/51O5-O3pvug)
 
-## Berikut link repository github :
-
-https://github.com/MuhammadReza1234/percobaan
 
 ## SEKIAN TERIMAKASIH
