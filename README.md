@@ -21,7 +21,7 @@ Saya di beri tugas UAS ini  dengan struktur sebagai berikut:
 Klik link berikut 👉🏻 [Modul penjelasan program](https://drive.google.com/file/d/1J0lShp2MzFZVdPHZqstgosxiGyW0KOxu/view?usp=drivesdk)
 ## Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
-[Klik link berikut 👉🏻 [YouTube video tutorial](https://youtu.be/51O5-O3pvug)
+Klik link berikut 👉🏻 [YouTube video tutorial](https://youtu.be/51O5-O3pvug)
 
 
 ## SEKIAN TERIMAKASIH
