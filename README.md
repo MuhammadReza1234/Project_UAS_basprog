@@ -18,8 +18,7 @@ Saya di beri tugas UAS ini  dengan struktur sebagai berikut:
 
 ## Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
-[Ini file punya si siapa tadi lupa namanya](https://drive.google.com/file/d/1ZP2LMhRSkGNGIaZ_WPVh7TKS2EM3aVq2/view?usp=share_link)
-
+[Ini file punya si siapa tadi lupa namanya](https://drive.google.com/file/d/1J0lShp2MzFZVdPHZqstgosxiGyW0KOxu/view?usp=drivesdk)
 ## Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
 [ini juga video punya tu orang](https://youtu.be/51O5-O3pvug)
